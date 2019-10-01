@@ -1,4 +1,4 @@
-# RegRipper
+# RegRipper Docker image
 
 [RegRipper](https://github.com/keydet89/RegRipper2.8) is a fantastic DFIR tool for analysis Microsoft Windows registry hives.
 
